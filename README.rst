@@ -28,7 +28,8 @@ work using a Redis instance running on the local machine on :
 	r = redis.StrictRedis(**config)
 	
 the **config** dict can be configured according the desired specification.
-To get additional informations, consult the official redis-py repository.
+To get additional informations, consult the official redis-py repository
+and its documentation at https://redis-py.readthedocs.org/.
 
 Usage
 -----
