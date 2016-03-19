@@ -13,7 +13,7 @@ Requirements
 Installation tips
 -----------------
 Under the file **settings.py** you can see that the web-chat client is setup to
-work using a Redis instance running on the local machine on :
+work using a Redis instance running on the local machine on port 6379 (the default one):
 
 .. code-block:: python
 	
