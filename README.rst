@@ -43,3 +43,10 @@ and the StrictRedis object is connected to an active Redis Server Instance, from
 	
 this will pop out the user interface of the application.
 Once the user interface is displayed, directly interact with it.
+
+Info
+----
+
+Additional informations about the purposes of the project can be found in the following
+presentation http://www.slideshare.net/FabrizioFarinacci1/redis-usability-and-use-cases.
+
