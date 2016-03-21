@@ -288,6 +288,8 @@ def on_send():
 	# Check if the message is not empty
 	if len(msg) > 0:
 		usrname = str(ui.lineEdit.text())
+		if len(usrname) == 0:
+			usrname = '<Anonymous>'
 		channel = str(ui.comboBox.currentText())
 		ui.textEdit_2.clear()
 		message = '%s [%s]: %s' % (usrname, channel, msg)
