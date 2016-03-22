@@ -145,10 +145,10 @@ class Ui_MainWindow(object):
 	
 	# To setup the labels and to register the handlers 
     def retranslateUi(self, MainWindow):
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow", None))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Redis SubsChat", None))
         self.pushButton.setText(_translate("MainWindow", "Send", None))
         self.label.setText(_translate("MainWindow", "Channels", None))
-        self.label_2.setText(_translate("MainWindow", "Multi-Tematic Web-Chat", None))
+        self.label_2.setText(_translate("MainWindow", "Multi-Thematic Web-Chat", None))
         self.pushButton_2.setText(_translate("MainWindow", "Stop", None))
         self.pushButton_3.setText(_translate("MainWindow", "Start", None))
         self.comboBox.setItemText(0, _translate("MainWindow", "Sport", None))
