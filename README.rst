@@ -47,6 +47,14 @@ Once the user interface is displayed, directly interact with it.
 Info
 ----
 
-Additional informations about the purposes of the project can be found in the following
-presentation http://www.slideshare.net/FabrizioFarinacci1/redis-usability-and-use-cases.
+You can find personal information about myself in my Linkedin page:
+https://it.linkedin.com/in/fabrizio-farinacci-496679116
+
+The project was developed and has been presented within the course of "Pervasive Systems", 
+held by Prof. Ioannis Chatzigiannakis within the Master of Science in Computer Science (MSE-CS),
+at University if Rome "La Sapienza". Informations about the course are available in the following page:
+http://ichatz.me/index.php/Site/PervasiveSystems2016
+
+Additional informations about the project can be found in the following Slideshare presentation:
+http://www.slideshare.net/FabrizioFarinacci1/redis-usability-and-use-cases.
 
